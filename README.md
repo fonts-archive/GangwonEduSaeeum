@@ -15,7 +15,7 @@ font-family: 'GangwonEdu Saeeum';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GangwonEduSaeeum/GangwonEduSaeeum.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GangwonEduSaeeum/GangwonEduSaeeum.css" type="text/css"/>
 ```
 
 &nbsp;
